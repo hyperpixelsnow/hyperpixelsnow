@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hyperpixelsnow
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in creating value-added technologies
+- 🌱 I’m currently learning how to generate original NFTs and mint them in bulk. 
+- 💞️ I’m looking to collaborate on blockchain technology
 - 📫 Reach me on ig @hyperpixelsnow
 
 <!---
